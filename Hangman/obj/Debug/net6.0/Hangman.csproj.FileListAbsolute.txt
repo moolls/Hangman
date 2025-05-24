@@ -1,0 +1,29 @@
+/Users/emilychampers/Projects/Hangman/Hangman/obj/Debug/net6.0/Hangman.csproj.AssemblyReference.cache
+/Users/emilychampers/Projects/Hangman/Hangman/obj/Debug/net6.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilychampers/Projects/Hangman/Hangman/obj/Debug/net6.0/Hangman.AssemblyInfoInputs.cache
+/Users/emilychampers/Projects/Hangman/Hangman/obj/Debug/net6.0/Hangman.AssemblyInfo.cs
+/Users/emilychampers/Projects/Hangman/Hangman/obj/Debug/net6.0/Hangman.csproj.CoreCompileInputs.cache
+/Users/emilychampers/Projects/Hangman/Hangman/bin/Debug/net6.0/Hangman
+/Users/emilychampers/Projects/Hangman/Hangman/bin/Debug/net6.0/Hangman.deps.json
+/Users/emilychampers/Projects/Hangman/Hangman/bin/Debug/net6.0/Hangman.runtimeconfig.json
+/Users/emilychampers/Projects/Hangman/Hangman/bin/Debug/net6.0/Hangman.dll
+/Users/emilychampers/Projects/Hangman/Hangman/bin/Debug/net6.0/Hangman.pdb
+/Users/emilychampers/Projects/Hangman/Hangman/obj/Debug/net6.0/Hangman.dll
+/Users/emilychampers/Projects/Hangman/Hangman/obj/Debug/net6.0/refint/Hangman.dll
+/Users/emilychampers/Projects/Hangman/Hangman/obj/Debug/net6.0/Hangman.pdb
+/Users/emilychampers/Projects/Hangman/Hangman/obj/Debug/net6.0/Hangman.genruntimeconfig.cache
+/Users/emilychampers/Projects/Hangman/Hangman/obj/Debug/net6.0/ref/Hangman.dll
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\bin\Debug\net6.0\Hangman.exe
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\bin\Debug\net6.0\Hangman.deps.json
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\bin\Debug\net6.0\Hangman.runtimeconfig.json
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\bin\Debug\net6.0\Hangman.dll
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\bin\Debug\net6.0\Hangman.pdb
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\obj\Debug\net6.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfo.cs
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\obj\Debug\net6.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\obj\Debug\net6.0\Hangman.dll
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\obj\Debug\net6.0\refint\Hangman.dll
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\obj\Debug\net6.0\Hangman.pdb
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\obj\Debug\net6.0\Hangman.genruntimeconfig.cache
+C:\Users\emily\OneDrive - Uppsala universitet\Dokument\Kodprojekt under kandidatutbildning\Hangman\Hangman\obj\Debug\net6.0\ref\Hangman.dll
