@@ -4,7 +4,7 @@ Detta är ett konsolbaserat Hänga Gubbe-spel utvecklat i C# med fokus på objek
 
 ### Om projektet
 
-Detta projekt är skapat som en inlämningsuppgift i kursen **Objektorienterad programmering 1** vid Uppsala Universitet. Syftet med uppgiften var att tillämpa objektorienterade principer som arv, abstrakta klasser och designmönster i ett eget konsolbaserat spel.
+Detta projekt är skapat som en inlämningsuppgift i kursen **Objektorienterad programmering I** vid Uppsala Universitet. Syftet med uppgiften var att tillämpa objektorienterade principer som arv, abstrakta klasser och designmönster i ett eget konsolbaserat spel.
 
 ### Funktioner
 
